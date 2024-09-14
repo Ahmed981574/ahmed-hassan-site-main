@@ -2,8 +2,8 @@ export const educations = [
   {
     id: 1,
     title: "Bachelors",
-    duration: "2020 - 2024",
-    institution: "Sukkur IBA University, Pakistan",
+    duration: "2019 - 2023",
+    institution: "National University of Modern Languages NUML Islamabad, Pakistan",
   },
   {
     id: 2,
