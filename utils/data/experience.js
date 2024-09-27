@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: " Freelancer ",
-    company: "Fiver/Upwork ",
+    company: "Fiverr/Upwork ",
     duration: "(Jun 2020 - Present)"
   },
   {
